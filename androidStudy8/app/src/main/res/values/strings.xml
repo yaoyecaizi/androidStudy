@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">androidStudy8</string>
+    <string name="textView1_name">TextView(显示框)</string>
+</resources>
