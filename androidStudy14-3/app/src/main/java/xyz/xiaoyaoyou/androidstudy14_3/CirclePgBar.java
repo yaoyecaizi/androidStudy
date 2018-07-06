@@ -30,6 +30,7 @@ public class CirclePgBar extends View {
     private int mHeight;
 
     public CirclePgBar(Context context) {
+
         super(context);
         init();
     }
